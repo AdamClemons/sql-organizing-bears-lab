@@ -5,4 +5,4 @@ age INTEGER,
 sex TEXT,
 color TEXT,
 temperament TEXT,
-alive TEXT)
+alive BOOLEAN)
